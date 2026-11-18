@@ -1,0 +1,6 @@
+# Obsidian 本地工作区状态（面板布局、打开的文件等，随机器变化，不与他人共享）
+.obsidian/
+
+# 系统与编辑器杂项
+.DS_Store
+Thumbs.db
